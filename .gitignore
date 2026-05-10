@@ -1,4 +1,4 @@
-*.pt
-output
-dataset
-*.zip
+/*.pt
+/output
+/dataset
+/*.zip
