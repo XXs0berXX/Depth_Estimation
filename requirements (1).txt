@@ -1,0 +1,22 @@
+# Depth Estimation Pipeline — Requirements
+# Install: pip install -r requirements.txt
+
+# Deep learning
+torch>=2.1.0
+torchvision>=0.16.0
+
+# HuggingFace (Depth Anything V2 + DINOv2)
+transformers>=4.40.0
+huggingface_hub>=0.22.0
+
+# YOLOv8
+ultralytics>=8.2.0
+
+# Vision / numerics
+opencv-python>=4.9.0
+Pillow>=10.0.0
+numpy>=1.24.0
+matplotlib>=3.8.0
+
+# Utilities
+tqdm
