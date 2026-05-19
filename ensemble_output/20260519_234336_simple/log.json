@@ -1,0 +1,21 @@
+{
+  "timestamp": "20260519_234336",
+  "technique": "simple",
+  "detections": [
+    {
+      "label": "car",
+      "conf": 0.4514,
+      "center_tl": [
+        400.79998779296875,
+        644.9000244140625
+      ],
+      "avg_depth_m": 12.9148,
+      "std_depth_m": 10.1019,
+      "num_pairs": 2,
+      "pairs": {
+        "TL\u2194BR-x": 2.8129000663757324,
+        "TL\u2194BR-y": 23.016700744628906
+      }
+    }
+  ]
+}
