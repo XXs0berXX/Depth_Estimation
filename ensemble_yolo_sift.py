@@ -38,10 +38,10 @@ FOCAL_LENGTH_MM_EQ = 28.0
 SENSOR_WIDTH_MM_EQ = 36.0
 
 # Image paths (relative to this file's directory)
-IMG_TL = 'dataset/2_left_top.jpeg'
-IMG_TR = 'dataset/2_right_top.jpeg'
-IMG_BL = 'dataset/2_left_bottom.jpeg'
-IMG_BR = 'dataset/2_right_bottom.jpeg'
+IMG_TL = 'dataset/3_left_top.jpeg'
+IMG_TR = 'dataset/3_right_top.jpeg'
+IMG_BL = 'dataset/3_left_bottom.jpeg'
+IMG_BR = 'dataset/3_right_bottom.jpeg'
 
 # ---------------------------------------------------------------------------
 # Shared helpers
