@@ -238,8 +238,8 @@ class StereoVisionDetector:
 
 def main():
     # ============ CONFIGURE YOUR IMAGE PATHS HERE ============
-    left_image_path  = r"E:\IBA\BSCS - 6\Introduction to Computer Vision\Project\Depth_Estimation\dataset\2_left_top.jpeg"
-    right_image_path = r"E:\IBA\BSCS - 6\Introduction to Computer Vision\Project\Depth_Estimation\dataset\2_right_top.jpeg"
+    left_image_path  = r"E:\IBA\BSCS - 6\Introduction to Computer Vision\Project\Depth_Estimation\dataset\2_left_bottom.jpeg"
+    right_image_path = r"E:\IBA\BSCS - 6\Introduction to Computer Vision\Project\Depth_Estimation\dataset\2_right_bottom.jpeg"
     output_dir = Path("output/stereo")
     output_dir.mkdir(parents=True, exist_ok=True)
 
